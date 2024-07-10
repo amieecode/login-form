@@ -1,10 +1,10 @@
 import { useState } from 'react';
-import React from 'react';
+import SignupSignin from './Components/SignupSignin';
 
 function App() {
   return (
     <>
-     <h2 className='text-center font-bold'>LOGIN</h2>
+      <SignupSignin />
     </>
   )
 }
