@@ -4,7 +4,7 @@
 
 body {
     background: linear-gradient(#2A00B7, #420062);
-    height: 100vh;
+    height: 150vh;
 }
 
 @layer components{
@@ -13,5 +13,8 @@ body {
     }
     .gray{
         @apply bg-[#EAEAEA] text-[#767676];
+    }
+    .social{
+        @apply rounded-xl w-32 h-14 shadow-xl;
     }
 }
