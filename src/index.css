@@ -4,17 +4,17 @@
 
 body {
     background: linear-gradient(#2A00B7, #420062);
-    height: 150vh;
+    height: 90vh;
 }
 
 @layer components{
     .submit {
-        @apply flex justify-center items-center w-[220px] h-[59px] text-white bg-[#4c00b4] rounded-[50px] text-[19px] font-bold cursor-pointer;
+        @apply flex justify-center items-center w-[145px] h-[45px] gap-20 text-white bg-[#4c00b4] rounded-[50px] text-[17px] font-bold cursor-pointer;
     }
     .gray{
         @apply bg-[#EAEAEA] text-[#767676];
     }
     .social{
-        @apply rounded-xl w-32 h-14 shadow-xl;
+        @apply rounded-xl w-24 h-12 shadow-xl;
     }
 }

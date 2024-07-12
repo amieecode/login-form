@@ -1,8 +1,13 @@
-# React + Vite
+# Login System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a Login System built with React Vite. It features a sign in and sign out with socials.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+
+- React
+- Vite
+- HTML
+- CSS (with Tailwind CSS for styling)
+- JavaScript
+- Lucides-Icons
