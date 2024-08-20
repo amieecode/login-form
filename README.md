@@ -1,6 +1,6 @@
 # Login System
 
-This project is a Login System built with React Vite. It features a sign in and sign out with socials.
+Here is simple login and register page built with React Vite. It features a sign in and sign out with socials button.
 
 
 ## Technologies Used
